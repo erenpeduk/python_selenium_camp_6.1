@@ -1,1 +1,1 @@
-# python_selenium_camp_6.1
+Selenium IDE sayesinde işlemlerin hızlı bir şekilde gerçekletirilmesi çok iyi bir fırsat fakat eğitimlerde işin mutfak kısmını da gördüğümüz için bazı kısımlarda düzenleme gerektiriyor. Bir hata değil fakat daha düzgün ve işlevli olabilmesi açısından Selenium IDE ile otomasyonu oluşturduktan sonra kod üzerinde kendi düzenlemelerimiz yapabiliriz. Örneğin pencere boyutunu kendimiz ayarlayabiliriz, kendi fonksiyonumuzu oluşturarak wait komutunu bunun üzerinden kullanabiliriz, aynı zamanda veriler için farklı imput oluşturarak bunlara atayabiliriz.
